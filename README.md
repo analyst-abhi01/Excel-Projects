@@ -41,6 +41,8 @@ This repository contains a variety of projects, each showcasing different aspect
 
 11. **Account Sales Report**: Evaluated sales data across different accounts, highlighting trends, discrepancies, and performance metrics to support business decisions.
 
+All of these projects are also available on my portfolio: [http://www.analystabhishek.com/](http://www.analystabhishek.com/)
+
 ## Skills Demonstrated
 
 In each project, I have applied various analytical techniques and Excel functionalities, including:
@@ -70,9 +72,9 @@ I am continuously striving to enhance my skills and knowledge in data analytics.
 
 ## Contact Information
 
-I love connecting with fellow data enthusiasts! Feel free to reach out for collaboration, feedback, or just a chat about data analytics.
+I love connecting with fellow data enthusiasts! Feel free to reach out for collaboration, feedback, or just a chat about data analytics. If you're looking for free datasets, don't hesitate to DM me on LinkedIn or email me!
 
-- **Email**: [travi981099@gmail.com]
-- **LinkedIn**: [www.linkedin.com/in/analyst-abhishek]
+- **Email**: travi981099@gmail.com
+- **LinkedIn**: www.linkedin.com/in/analyst-abhishek
 
 Thank you for visiting my Excel Project Showcase! I hope you find inspiration and insight in these projects as I continue my journey in the world of data analytics.
